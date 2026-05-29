@@ -5,29 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"G:/Unreal Projects/CubeEscape/Content/L_Test.umap",
-				"G:/Unreal Projects/CubeEscape/Content/BP_Playe.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/GM_GameMode.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_TurnBox.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_FloorBox.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/PM_PlayerPhysics.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_TeleportBox.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Materials/MI_ThirdPersonColWay.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Materials/MI_DefaultColorway.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Platforms/deathcube.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Platforms/ground.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Platforms/Platform.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Cube/cube.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Cube/lambert1.uasset",
 				"G:/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap",
-				"G:/GitHub/Cube_Escape/CubeEscape/Content/BP_TurnBox.uasset",
-				"G:/GitHub/Cube_Escape/CubeEscape/Content/BP_FloorBox.uasset",
-				"G:/GitHub/Cube_Escape/CubeEscape/Content/BP_Playe.uasset",
-				"G:/GitHub/Cube_Escape/CubeEscape/Content/BP_TeleportBox.uasset",
-<<<<<<< Updated upstream
-=======
-				"G:/GitHub/Cube_Escape/CubeEscape/Content/BP_KillBox.uasset",
->>>>>>> Stashed changes
-				"G:/Unreal Projects/CubeEscape/Content/IMC_Movement.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_Player.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_SplinePath.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_Test.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/BP_Test2.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/IA_Walk.uasset",
-				"G:/Unreal Projects/CubeEscape/Content/IA_Jump.uasset"
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Wireframes/WF2.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"G:/GitHub/Cube_Escape/CubeEscape/Content/Materials/Lava_mat.uasset"
 			]
 		}
 	]
