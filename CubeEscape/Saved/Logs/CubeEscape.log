@@ -3424,3 +3424,88 @@ Sampler Limit: 32
 [2026.05.29-12.37.04:239][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6792.506348
 [2026.05.29-12.37.04:374][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.29-12.37.04:374][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6792.630859, Update Interval: 320.096436
+[2026.05.29-12.43.10:691][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7158.948242
+[2026.05.29-12.43.11:691][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.43.11:691][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7159.614258, Update Interval: 351.212494
+[2026.05.29-12.45.48:573][694]LogDerivedDataCache: C:/Users/22428805/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.29-12.49.45:421][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7553.679688
+[2026.05.29-12.49.46:422][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.49.46:423][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7554.347656, Update Interval: 347.700439
+[2026.05.29-12.56.12:915][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7941.178223
+[2026.05.29-12.56.13:914][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-12.56.13:914][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7941.844727, Update Interval: 350.064392
+[2026.05.29-13.02.35:237][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8323.420898
+[2026.05.29-13.02.36:239][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.02.36:239][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8324.087891, Update Interval: 309.849548
+[2026.05.29-13.08.45:295][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8693.389648
+[2026.05.29-13.08.46:296][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.08.46:296][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8694.056641, Update Interval: 349.031647
+[2026.05.29-13.10.01:358][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.29-13.10.01:372][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Test" FILE="G:/GitHub/Cube_Escape/CubeEscape/Saved/Autosaves/Game/L_Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.05.29-13.10.02:885][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_Test_Auto3
+[2026.05.29-13.10.02:895][427]LogSavePackage: Moving 'G:/GitHub/Cube_Escape/CubeEscape/Saved/L_Test_Auto3F344B0A24ACA9E0B8BD57E98A61CF358.tmp' to 'G:/GitHub/Cube_Escape/CubeEscape/Saved/Autosaves/Game/L_Test_Auto3.umap'
+[2026.05.29-13.10.02:925][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_Test' took 1.598
+[2026.05.29-13.10.02:925][427]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.598
+[2026.05.29-13.15.06:145][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9074.238281
+[2026.05.29-13.15.07:146][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.15.07:146][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9074.906250, Update Interval: 303.123871
+[2026.05.29-13.20.59:926][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9427.940430
+[2026.05.29-13.21.00:926][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.21.00:927][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9428.606445, Update Interval: 306.559052
+[2026.05.29-13.26.46:869][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9774.826172
+[2026.05.29-13.26.47:869][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.26.47:869][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9775.493164, Update Interval: 337.069000
+[2026.05.29-13.33.07:293][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10155.166992
+[2026.05.29-13.33.08:293][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.33.08:293][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10155.833984, Update Interval: 340.057373
+[2026.05.29-13.39.35:962][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10543.766602
+[2026.05.29-13.39.36:961][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.39.36:961][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10544.432617, Update Interval: 311.512207
+[2026.05.29-13.43.56:432][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/cube.cube
+[2026.05.29-13.43.56:433][191]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.05.29-13.45.44:748][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10912.513672
+[2026.05.29-13.45.45:749][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.45.45:749][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10913.180664, Update Interval: 356.601471
+[2026.05.29-13.45.48:576][269]LogDerivedDataCache: C:/Users/22428805/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.29-13.45.52:107][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.29-13.45.52:153][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Test" FILE="G:/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.29-13.45.52:326][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.29-13.45.53:291][401]LogSavePackage: Moving output files for package: /Game/L_Test
+[2026.05.29-13.45.53:301][401]LogSavePackage: Moving 'G:/GitHub/Cube_Escape/CubeEscape/Saved/L_Test176EA168470C8FA8EF48D2AC46C80ADF.tmp' to 'G:/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap'
+[2026.05.29-13.45.53:381][401]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22428805/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap'.
+[2026.05.29-13.45.53:393][401]LogFileHelpers: Saving map 'L_Test' took 1.241
+[2026.05.29-13.45.53:400][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.29 sec (total: 18.4 sec)
+[2026.05.29-13.45.53:435][401]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.29-13.45.53:435][401]LogContentValidation: Enabled validators:
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.29-13.45.53:435][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.29-13.45.53:436][401]AssetCheck: /Game/L_Test Validating asset
+[2026.05.29-13.52.12:965][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11300.554688
+[2026.05.29-13.52.13:966][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.52.13:966][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11301.221680, Update Interval: 308.034912
+[2026.05.29-13.57.57:690][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11645.119141
+[2026.05.29-13.57.58:691][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-13.57.58:691][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11645.785156, Update Interval: 351.283905
+[2026.05.29-14.04.30:090][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12037.316406
+[2026.05.29-14.04.31:090][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.04.31:090][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12037.982422, Update Interval: 350.018616
+[2026.05.29-14.11.16:808][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12443.805664
+[2026.05.29-14.11.17:807][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.11.17:807][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12444.471680, Update Interval: 302.536102
+[2026.05.29-14.17.03:532][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12790.325195
+[2026.05.29-14.17.04:531][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.17.04:531][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12790.991211, Update Interval: 315.599243
+[2026.05.29-14.23.04:919][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13151.518555
+[2026.05.29-14.23.05:919][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.23.05:919][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13152.185547, Update Interval: 303.830688
+[2026.05.29-14.28.50:788][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13497.227539
+[2026.05.29-14.28.51:788][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.28.51:788][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13497.893555, Update Interval: 357.950989
+[2026.05.29-14.35.47:321][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13913.691406
+[2026.05.29-14.35.48:322][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.29-14.35.48:322][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13914.357422, Update Interval: 341.115753
+[2026.05.29-14.39.31:358][765]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22428805/GitHub/Cube_Escape/CubeEscape/Content/L_Test.umap'.
