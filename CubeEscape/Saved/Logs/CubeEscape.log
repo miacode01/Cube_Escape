@@ -1782,3 +1782,393 @@ FPackageName: Skipped package /Game/Background/lambert1 has a valid, mounted, mo
 [2026.06.05-12.31.22:918][ 99]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.06.05-12.31.22:918][ 99]LogShaderCompilers: Display: Material Cache Hits: 10 (7%)
 [2026.06.05-12.31.22:918][ 99]LogShaderCompilers: Display: ================================================
+[2026.06.05-12.33.28:847][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4633.643555
+[2026.06.05-12.33.29:845][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-12.33.29:845][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4634.309570, Update Interval: 346.173279
+[2026.06.05-12.40.05:621][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5030.415527
+[2026.06.05-12.40.06:621][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-12.40.06:621][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5031.083496, Update Interval: 322.315735
+[2026.06.05-12.46.14:024][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5398.825195
+[2026.06.05-12.46.15:025][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-12.46.15:025][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5399.490234, Update Interval: 319.435394
+[2026.06.05-12.52.05:405][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5750.211914
+[2026.06.05-12.52.06:406][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-12.52.06:406][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5750.878906, Update Interval: 358.104797
+[2026.06.05-12.59.03:803][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6168.605469
+[2026.06.05-12.59.04:804][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-12.59.04:804][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6169.272461, Update Interval: 309.893494
+[2026.06.05-13.04.50:848][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6515.651855
+[2026.06.05-13.04.51:847][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.04.51:847][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6516.318359, Update Interval: 351.646484
+[2026.06.05-13.11.31:733][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6916.529785
+[2026.06.05-13.11.32:734][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.11.32:734][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6917.196777, Update Interval: 344.453857
+[2026.06.05-13.17.57:457][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7302.256836
+[2026.06.05-13.17.58:457][129]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.17.58:457][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7302.923340, Update Interval: 338.656586
+[2026.06.05-13.17.59:175][132]LogDerivedDataCache: C:/Users/22416228/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.05-13.24.28:496][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7693.290039
+[2026.06.05-13.24.29:497][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.24.29:497][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7693.956543, Update Interval: 326.763519
+[2026.06.05-13.30.10:910][639]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.06.05-13.30.10:917][639]LogContentBrowser: Creating deferred item: NewFolder
+[2026.06.05-13.30.10:932][640]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.06.05-13.30.17:517][358]LogContentBrowser: Attempting asset rename: NewFolder -> MeinMenu
+[2026.06.05-13.30.17:524][358]LogContentBrowser: End creating deferred item NewFolder
+[2026.06.05-13.30.43:037][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8067.829590
+[2026.06.05-13.30.44:037][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.30.44:037][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8068.496582, Update Interval: 311.484741
+[2026.06.05-13.31.56:730][413]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/Option_WB.uasset, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/Option_WB.uasset'.
+[2026.06.05-13.31.57:048][414]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuWB.uasset, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuWB.uasset'.
+[2026.06.05-13.31.57:049][414]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuScri.uasset, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuScri.uasset'.
+[2026.06.05-13.31.57:383][415]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuScri.uasset, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuScri.uasset'.
+[2026.06.05-13.31.57:384][415]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MenuGamemode.uasset, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MenuGamemode.uasset'.
+[2026.06.05-13.32.22:403][492]LogSlate: Window 'Open Level' being destroyed
+[2026.06.05-13.32.24:610][721]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.32.26:576][721]LogSlate: Window 'New Level' being destroyed
+[2026.06.05-13.32.26:754][721]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.32.26:754][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.32.26:793][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-13.32.26:799][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.05-13.32.26:806][721]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.06.05-13.32.26:810][721]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.06.05-13.32.26:877][722]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.32.48:406][479]LogSlate: Window 'Save Level As' being destroyed
+[2026.06.05-13.32.48:464][479]LogChaosDD: Creating Chaos Debug Draw Scene for world MeinMenuLevel
+[2026.06.05-13.32.48:466][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MeinMenu/MeinMenuLevel" FILE="G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.05-13.32.48:485][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.05-13.32.48:549][479]LogSavePackage: Moving output files for package: /Game/MeinMenu/MeinMenuLevel
+[2026.06.05-13.32.48:549][479]LogSavePackage: Moving 'G:/GitHub/Cube_Escape/CubeEscape/Saved/MeinMenuLevel4CC2944A4766304519C00D9303F6A4AE.tmp' to 'G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap'
+[2026.06.05-13.32.48:562][479]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap'.
+[2026.06.05-13.32.48:586][479]LogFileHelpers: Saving map 'MeinMenuLevel' took 0.170
+[2026.06.05-13.32.48:586][479]Cmd: MAP LOAD FILE="G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.06.05-13.32.48:723][479]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.32.48:723][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.32.48:741][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-13.32.48:742][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.05-13.32.48:744][479]LogWorld: UWorld::CleanupWorld for MeinMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.32.48:744][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.32.48:761][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.06.05-13.32.48:780][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.06.05-13.32.48:781][479]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.32.48:784][479]LogAudio: Display: Audio Device (ID: 1) registered with world 'MeinMenuLevel'.
+[2026.06.05-13.32.48:784][479]LogChaosDD: Creating Chaos Debug Draw Scene for world MeinMenuLevel
+[2026.06.05-13.32.48:794][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.06.05-13.32.48:816][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.05-13.32.48:878][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.06.05-13.32.48:878][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2026.06.05-13.32.48:941][479]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-13.32.48:941][479]LogContentValidation: Enabled validators:
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-13.32.48:941][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-13.32.48:942][479]AssetCheck: /Game/MeinMenu/MeinMenuLevel Validating asset
+[2026.06.05-13.32.48:963][479]LogSourceControl: Display: Uncontrolled Changelist persistency file saved G:/GitHub/Cube_Escape/CubeEscape/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.05-13.32.49:047][480]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.33.06:380][375]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.33.06:452][375]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MeinMenu/Option_WB.Option_WB
+[2026.06.05-13.33.06:452][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.06.05-13.33.06:459][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.06.05-13.33.06:464][375]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.06.05-13.33.07:117][375]LogSlate: Took 0.006869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.06.05-13.33.53:033][723]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.33.53:048][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MeinMenu/MenuGamemode.MenuGamemode
+[2026.06.05-13.33.53:048][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.06.05-13.34.32:530][824]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MeinMenu/MeinMenuLevel.MeinMenuLevel:PersistentLevel.MeinMenuLevel
+[2026.06.05-13.34.32:530][824]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.06.05-13.35.01:821][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.05-13.35.01:830][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-13.35.01:889][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MeinMenu/MeinMenuLevel" FILE="G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.05-13.35.02:010][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.05-13.35.02:092][ 66]LogSavePackage: Moving output files for package: /Game/MeinMenu/MeinMenuLevel
+[2026.06.05-13.35.02:098][ 66]LogSavePackage: Moving 'G:/GitHub/Cube_Escape/CubeEscape/Saved/MeinMenuLevel208D00EE4674577A154358A8BBCD488C.tmp' to 'G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap'
+[2026.06.05-13.35.02:159][ 66]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap, because GetFilenameOnDisk returned non-matching filename '//BUCHWPFIL0788/Homes/22416228/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuLevel.umap'.
+[2026.06.05-13.35.02:168][ 66]LogFileHelpers: Saving map 'MeinMenuLevel' took 0.281
+[2026.06.05-13.35.02:175][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 345.055 ms (total: 1.58 sec)
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: Enabled validators:
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-13.35.02:236][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-13.35.02:237][ 66]AssetCheck: /Game/MeinMenu/MeinMenuLevel Validating asset
+[2026.06.05-13.35.09:456][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-13.35.09:480][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-13.35.09:503][885]LogPlayLevel: Creating play world package: /Game/MeinMenu/UEDPIE_0_MeinMenuLevel
+[2026.06.05-13.35.09:504][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2026.06.05-13.35.09:504][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MeinMenu/MeinMenuLevel.MeinMenuLevel to /Game/MeinMenu/UEDPIE_0_MeinMenuLevel.MeinMenuLevel (0.001509s)
+[2026.06.05-13.35.09:522][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.05-13.35.09:525][885]LogChaosDD: Creating Chaos Debug Draw Scene for world MeinMenuLevel
+[2026.06.05-13.35.09:526][885]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2026.06.05-13.35.09:527][885]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-13.35.09:527][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-13.35.09:527][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-13.35.09:527][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-13.35.09:527][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-13.35.09:527][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-13.35.09:529][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-13.35.09:560][885]LogAudioMixer: Display: Using Audio Hardware Device VA34VCPSN (NVIDIA High Definition Audio)
+[2026.06.05-13.35.09:560][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-13.35.09:560][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-13.35.09:560][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-13.35.09:561][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.06.05-13.35.09:561][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.06.05-13.35.09:563][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.05-13.35.09:563][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.06.05-13.35.09:563][885]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.05-13.35.09:563][885]LogAudio: Display: Audio Device (ID: 7) registered with world 'MeinMenuLevel'.
+[2026.06.05-13.35.09:563][885]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.05-13.35.09:568][885]LogLoad: Game class is 'GameModeBase'
+[2026.06.05-13.35.09:568][885]LogWorld: Bringing World /Game/MeinMenu/UEDPIE_0_MeinMenuLevel.MeinMenuLevel up for play (max tick rate 0) at 2026.06.05-14.35.09
+[2026.06.05-13.35.09:568][885]LogWorld: Bringing up level for play took: 0.000369
+[2026.06.05-13.35.09:571][885]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.06.05-13.35.09:574][885]PIE: Server logged in
+[2026.06.05-13.35.09:576][885]PIE: Play in editor total start time 0.096 seconds.
+[2026.06.05-13.35.09:613][886]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.35.20:206][135]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1600"
+[2026.06.05-13.35.20:206][135]LogCsvProfiler: Display: Metadata set : systemresolution.resy="900"
+[2026.06.05-13.35.22:003][324]LogLongPackageNames: Warning: Can't Find URL: Lvl_ThirdPerson: . Invalidating and reverting to Default URL.
+[2026.06.05-13.35.22:003][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.06.05-13.35.22:005][324]LogLongPackageNames: Warning: Can't Find URL: Lvl_ThirdPerson: . Invalidating and reverting to Default URL.
+[2026.06.05-13.35.22:005][324]LogGlobalStatus: UEngine::Browse Started Browse: "/Engine/Maps/Templates/OpenWorld"
+[2026.06.05-13.35.22:005][324]LogNet: Browse: /Engine/Maps/Templates/OpenWorld
+[2026.06.05-13.35.22:005][324]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Engine/Maps/Templates/OpenWorld"
+[2026.06.05-13.35.22:005][324]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Engine/Maps/Templates/OpenWorld
+[2026.06.05-13.35.22:005][324]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Engine/Maps/Templates/OpenWorld'
+[2026.06.05-13.35.22:006][324]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Engine/Maps/Templates/OpenWorld"
+[2026.06.05-13.35.22:006][324]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Engine/Maps/Templates/OpenWorld
+[2026.06.05-13.35.22:006][324]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Engine/Maps/Templates/OpenWorld'
+[2026.06.05-13.35.22:012][325]LogGlobalStatus: UEngine::Browse Started Browse: "/Engine/Maps/Templates/OpenWorld?closed"
+[2026.06.05-13.35.22:012][325]LogNet: Browse: /Engine/Maps/Templates/OpenWorld?closed
+[2026.06.05-13.35.22:012][325]LogNet: Connection failed; returning to Entry
+[2026.06.05-13.35.22:012][325]LogLoad: LoadMap: /Engine/Maps/Templates/OpenWorld?closed
+[2026.06.05-13.35.22:013][325]LogWorld: BeginTearingDown for /Game/MeinMenu/UEDPIE_0_MeinMenuLevel
+[2026.06.05-13.35.22:013][325]LogWorld: UWorld::CleanupWorld for MeinMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.35.22:013][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.35.22:062][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-13.35.22:063][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.06.05-13.35.22:064][325]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.35.22:124][325]LogAudio: Display: Audio Device (ID: 7) registered with world 'OpenWorld'.
+[2026.06.05-13.35.22:124][325]LogChaosDD: Creating Chaos Debug Draw Scene for world OpenWorld
+[2026.06.05-13.35.22:126][325]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorld)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-13.35.22:126][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-13.35.22:126][325]LogWorldPartition: UWorldPartition::Initialize : World = /Engine/Maps/Templates/UEDPIE_0_OpenWorld.OpenWorld, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.06.05-13.35.22:126][325]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-13.35.22:130][325]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2026.06.05-13.35.22:608][325]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 479.127 ms
+[2026.06.05-13.35.22:613][325]LogWorldPartition: Display: WorldPartition initialize took 487.980 ms (total: 1.47 sec)
+[2026.06.05-13.35.22:613][325]LogPlayLevel: PIE: World Init took: (0.489675s)
+[2026.06.05-13.35.22:613][325]LogLoad: Game class is 'GameModeBase'
+[2026.06.05-13.35.22:613][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/5K/CE7OWOIDJIL69HHH3KR4JJ.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/5S/7KG1M6Z4DAY7L4W6MCJF27.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/BY/3VWWK6AVEYXW9NSZV4QD8O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/KN/UD3G3TJ9US3TGIJTNAMJMZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/O3/WPW7CIF61XJVNXEFKBLWZN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/VP/TFSQO5ISVRSGN8PURAZRAC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/27/Y7IFHWJO5J7WX6YC6J5N8M.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/4G/XQMADMPIF27EYUX6I1GTO8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/KH/TF80JEHHCZ7LCUGGAY96O6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/L7/D6T95MI6OZRA70MGB00GTO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/ZE/CG8IV7D3WBMHLQ6603TTIN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/CH/NXO39JTGOM7IJ8IAANES8J.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/EN/UXSY68YATHVWIP3MCFBSRN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/GH/HNSUWP8J18J3DNWN1LPW2V.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/TQ/ZTXE1THS1FHPKQYJWEVTF1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/US/YUBYQ1LC69AYEHAQJXQ9LS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/XD/80DOKOIVDWN29O7YL417GZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/6L/SFJTJ7A2NHMW798CZKNG9F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/BX/4SG4FMH15YA0SVXI9O6643.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/GD/I9ZBXPRHNR38HFE4CGO97F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/NN/XOZPH9N4V9E7YMF75PLFY5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Z1/B4WSZCAN5NCW6K68K1C1JN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/1U/XR77NRVSKIGOSP4YVKP3NF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/CI/GUD4QJTP4O4BIRXI49O2Z3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/GQ/1BZWR5HPTCP13J5TGSIKZF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/L4/7CG5YH1S7YPZD02MVZK1JJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/RX/WYTIO89IYQQD4U5E09826I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/XH/IO72E5L6ZIXCPCY5ZV1LFB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/23/2FOTWI9AYF007OAQ81AIHY.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/HV/8VPJR9FG4DY9IWHOO36TXC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/S1/MGYFJ10ERA3LBZ2NVR21ZS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/EI/M2ZU794Z9KQ8NTXCDK9OW9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/I5/8LF7F9DUELVHUUAUULV8S7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/SL/5E8AUJWD53HZZ1JZDPXMN5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/24/4YD3X92ICGPSMS70GKHT4Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/ED/2PX2Y3KHHIEMEGAZ5FDODJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/ED/OQA1ZBDPHZ8CO1PTJ6DYR7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/P9/RHBSJUA9AR5R6PSGE6GSKS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/YB/Z3BCR01JF9KCFXCU4JNRPX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/YX/2HMYI4TTW5FS9ZJCVXXLUJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/ZC/44F80QYMSROPN0PXL8W7DI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/3M/N9P6ZW1I4HD8A397EUC3YK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/ZC/1HI0WPWA2RUF32WFUFAFSA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/LH/00MBAVOF59YWK5C1K0L6QD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/1Y/9FNLWIO8XRBTLI1FIUODLB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/GZ/56B0AQM0TFG4O338HPSUV0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/NS/S7UX3VHWK2FE7F1VTGY4Q4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/RA/OXSUFS9AD8OBAN9ORA0KHV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/UU/FSLVQWEHZHSYDLFAI1UF1I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/V4/HDYW8NQLCV8S1NG7EBC73D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/YN/HZS8TMI8YA3C3PGKQSDH5W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/CZ/OANN28HN8QI6DGM822TLEF.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/K6/OQ1ND4KJYR3CXOLQ04FQD3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/OT/59JQU6VL27FICKT2N8ROJS.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/OY/YZHBAUXS47ZBW0KQJ7IQ60.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/RA/B67YQHSPFIOZSRSA5UPH7F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/EE/3Z1KFDTN295GSTNSTMWV8B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:614][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/NU/FDDZ9WSY9MW9WII6FVJKI9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/WE/9DAOSERJEIV3XKZ25XY8S4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/YA/84Y48Q6J7MAEPYO91F2W3X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/ZI/FCZX8TQ0MTDRVT82RD635B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/0E/C0GHL79EJZYDUEAPIYALYW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/47/LLGNVOXM8XJU38OS1ZC4E7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:615][325]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/F/58/HVLDTOB47BH89LD9IMV2MQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.06.05-13.35.22:631][325]LogStaticMesh: Display: Waiting for static meshes to be ready 9/64 (/Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/27/Y7IFHWJO5J7WX6YC6J5N8M) ...
+[2026.06.05-13.35.22:647][325]LogStaticMesh: Display: Waiting for static meshes to be ready 21/64 (/Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/NN/XOZPH9N4V9E7YMF75PLFY5) ...
+[2026.06.05-13.35.22:662][325]LogStaticMesh: Display: Waiting for static meshes to be ready 45/64 (/Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/GZ/56B0AQM0TFG4O338HPSUV0) ...
+[2026.06.05-13.35.22:678][325]LogStaticMesh: Display: Waiting for static meshes to be ready 49/64 (/Engine/Maps/Templates/UEDPIE_0_OpenWorld_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/V4/HDYW8NQLCV8S1NG7EBC73D) ...
+[2026.06.05-13.35.22:682][325]LogWorld: Bringing World /Engine/Maps/Templates/UEDPIE_0_OpenWorld.OpenWorld up for play (max tick rate 0) at 2026.06.05-14.35.22
+[2026.06.05-13.35.22:682][325]LogWorld: Bringing up level for play took: 0.002485
+[2026.06.05-13.35.23:221][325]LogLoad: Took 1.209008 seconds to LoadMap(/Engine/Maps/Templates/OpenWorld)
+[2026.06.05-13.35.23:221][325]LogGlobalStatus: UEngine::LoadMap Load map complete /Engine/Maps/Templates/OpenWorld
+[2026.06.05-13.35.23:245][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.05-13.35.23:320][326]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.35.25:184][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-13.35.25:184][377]LogWorld: BeginTearingDown for /Engine/Maps/Templates/UEDPIE_0_OpenWorld
+[2026.06.05-13.35.25:189][377]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.35.25:189][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.35.25:189][377]LogWorldPartition: UWorldPartition::Uninitialize : World = /Engine/Maps/Templates/UEDPIE_0_OpenWorld.OpenWorld
+[2026.06.05-13.35.25:222][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-13.35.25:228][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.35.25:256][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-13.35.25:256][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.05-13.35.25:256][377]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.06.05-13.35.25:258][377]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.06.05-13.35.25:274][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.06.05-13.35.25:337][378]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.06.05-13.35.25:340][378]LogRenderer: Using fallback RTPSO
+[2026.06.05-13.35.32:530][ 68]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MeinMenu/MeinMenuWB.MeinMenuWB
+[2026.06.05-13.35.32:530][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.06.05-13.35.32:537][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.06.05-13.35.34:054][164]LogSlate: Took 0.009778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.06.05-13.36.14:164][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.05-13.36.14:181][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-13.36.14:237][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MeinMenu/MeinMenuWB] ([2] browsable assets)...
+[2026.06.05-13.36.14:240][421]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MeinMenu/MeinMenuWB.MeinMenuWB]
+[2026.06.05-13.36.14:240][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/MeinMenu/MeinMenuWB]
+[2026.06.05-13.36.14:240][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MeinMenu/MeinMenuWB" FILE="G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuWB.uasset" SILENT=true
+[2026.06.05-13.36.14:518][421]LogSavePackage: Moving output files for package: /Game/MeinMenu/MeinMenuWB
+[2026.06.05-13.36.14:530][421]LogSavePackage: Moving 'G:/GitHub/Cube_Escape/CubeEscape/Saved/MeinMenuWB4CB7988B44585D4474117FA28674D8E0.tmp' to 'G:/GitHub/Cube_Escape/CubeEscape/Content/MeinMenu/MeinMenuWB.uasset'
+[2026.06.05-13.36.14:559][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 376.690 ms (total: 1.96 sec)
+[2026.06.05-13.36.14:653][421]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-13.36.14:653][421]LogContentValidation: Enabled validators:
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-13.36.14:653][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-13.36.14:653][421]AssetCheck: /Game/MeinMenu/MeinMenuWB Validating asset
+[2026.06.05-13.36.14:737][421]LogSourceControl: Display: Uncontrolled Changelist persistency file saved G:/GitHub/Cube_Escape/CubeEscape/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.05-13.36.22:223][271]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-13.36.22:249][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-13.36.22:292][271]LogPlayLevel: Creating play world package: /Game/MeinMenu/UEDPIE_0_MeinMenuLevel
+[2026.06.05-13.36.22:295][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001752s)
+[2026.06.05-13.36.22:295][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MeinMenu/MeinMenuLevel.MeinMenuLevel to /Game/MeinMenu/UEDPIE_0_MeinMenuLevel.MeinMenuLevel (0.001800s)
+[2026.06.05-13.36.22:314][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.05-13.36.22:316][271]LogChaosDD: Creating Chaos Debug Draw Scene for world MeinMenuLevel
+[2026.06.05-13.36.22:318][271]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2026.06.05-13.36.22:318][271]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-13.36.22:318][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-13.36.22:319][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-13.36.22:319][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-13.36.22:319][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-13.36.22:319][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-13.36.22:319][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-13.36.22:321][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-13.36.22:351][271]LogAudioMixer: Display: Using Audio Hardware Device VA34VCPSN (NVIDIA High Definition Audio)
+[2026.06.05-13.36.22:351][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-13.36.22:351][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-13.36.22:351][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-13.36.22:351][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.06.05-13.36.22:351][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.06.05-13.36.22:354][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.06.05-13.36.22:354][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.06.05-13.36.22:354][271]LogInit: FAudioDevice initialized with ID 8.
+[2026.06.05-13.36.22:354][271]LogAudio: Display: Audio Device (ID: 8) registered with world 'MeinMenuLevel'.
+[2026.06.05-13.36.22:354][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.05-13.36.22:357][271]LogLoad: Game class is 'GameModeBase'
+[2026.06.05-13.36.22:358][271]LogWorld: Bringing World /Game/MeinMenu/UEDPIE_0_MeinMenuLevel.MeinMenuLevel up for play (max tick rate 0) at 2026.06.05-14.36.22
+[2026.06.05-13.36.22:358][271]LogWorld: Bringing up level for play took: 0.000383
+[2026.06.05-13.36.22:360][271]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.05-13.36.22:363][271]PIE: Server logged in
+[2026.06.05-13.36.22:365][271]PIE: Play in editor total start time 0.116 seconds.
+[2026.06.05-13.36.22:400][272]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.36.23:536][398]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.06.05-13.36.23:538][398]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/L_Test"
+[2026.06.05-13.36.23:538][398]LogNet: Browse: /Game/L_Test
+[2026.06.05-13.36.23:538][398]LogLoad: LoadMap: /Game/L_Test
+[2026.06.05-13.36.23:538][398]LogWorld: BeginTearingDown for /Game/MeinMenu/UEDPIE_0_MeinMenuLevel
+[2026.06.05-13.36.23:539][398]LogWorld: UWorld::CleanupWorld for MeinMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.36.23:539][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.36.23:590][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-13.36.23:593][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.05-13.36.23:594][398]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.05-13.36.23:616][398]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_Test'.
+[2026.06.05-13.36.23:616][398]LogChaosDD: Creating Chaos Debug Draw Scene for world L_Test
+[2026.06.05-13.36.23:617][398]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2026.06.05-13.36.23:617][398]LogLoad: Game class is 'GM_GameMode_C'
+[2026.06.05-13.36.23:622][398]LogWorld: Bringing World /Game/UEDPIE_0_L_Test.L_Test up for play (max tick rate 0) at 2026.06.05-14.36.23
+[2026.06.05-13.36.23:622][398]LogWorld: Bringing up level for play took: 0.004925
+[2026.06.05-13.36.23:624][398]LogLoad: Took 0.085440 seconds to LoadMap(/Game/L_Test)
+[2026.06.05-13.36.23:624][398]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/L_Test
+[2026.06.05-13.36.23:631][398]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-13.36.23:717][400]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.06.05-13.36.24:849][466]LogBlueprintUserMessages: [BP_Playe_C_0] 1
+[2026.06.05-13.36.25:313][504]LogBlueprintUserMessages: [BP_Playe_C_0] 2
+[2026.06.05-13.36.28:917][804]LogBlueprintUserMessages: [BP_Playe_C_0] 1
+[2026.06.05-13.36.31:214][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-13.36.31:214][963]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Test
+[2026.06.05-13.36.31:214][963]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-13.36.31:214][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.36.31:220][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-13.36.31:225][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-13.36.31:245][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-13.36.31:245][963]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.05-13.36.31:245][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.06.05-13.36.31:247][963]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.06.05-13.36.31:253][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.06.05-13.36.31:303][964]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.05-13.36.35:229][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8420.156250
+[2026.06.05-13.36.35:395][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-13.36.35:395][402]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8420.314453, Update Interval: 322.782684
+[2026.06.05-13.36.44:515][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.05-13.40.28:769][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
